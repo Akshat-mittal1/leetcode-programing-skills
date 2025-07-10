@@ -46,10 +46,7 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 
 ---
 
-## 👨‍💻 Author
-
-**Akshat Mittal**  
-🔗 [GitHub – akshat-mittal1](https://github.com/akshat-mittal1)
+## 👨‍💻 Author 🔗 **[Akshat Mittal](https://github.com/akshat-mittal1)**
 
 ---
 
