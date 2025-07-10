@@ -19,8 +19,8 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 
 ## 📅 Target & Progress
 
-- **Start Date:** [Add Date]
-- **Goal:** Finish all 49 questions in [X days]
+- **Start Date:** [07-JULY-2025]
+- **Goal:** Finish all 49 questions in [49 days]
 - **Language:** Python
 
 ---
@@ -32,7 +32,6 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 | 1 | [Problem Name](https://leetcode.com/problems/example/) | [✓](./01-example.py) | ✅ |
 | 2 | ... | ... | 🔲 |
 
-> ⚙ Replace the placeholder rows as you solve problems.
 
 ---
 
@@ -53,4 +52,6 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 ## 📂 Repo Structure
 
 Each file is named by its question number and title, with a consistent format.
+
+> > ⭐ **Like the structured solutions in this repo? Drop a star!**  , Let's grow this into the best LeetCode collection together 📘✨
 
