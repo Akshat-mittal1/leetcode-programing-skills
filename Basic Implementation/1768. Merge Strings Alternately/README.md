@@ -42,3 +42,6 @@ Process:
 - Append remaining "rs" → "apbqrs"
 
 Output: "apbqrs"
+```
+
+## 👨‍💻 Author: [akshat-mittal1](https://github.com/akshat-mittal1)
