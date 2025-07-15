@@ -29,7 +29,7 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 
 | Topic | Topic Details | Folder Link | Status |
 |-------|---------------|-------------|--------|
-| Arrays | [Basic Implementation] | [📂 Open Folder](./Basic Implementation/) | ✅ |
+| Arrays | [Basic Implementation] | [📂 Open Folder](./Basic%20Implementation/) | ✅ |
 | Strings | [📄 View Problems](./topics/strings.md) | [📂 Open Folder](./strings/) | 🔲 |
 | DP | [📄 View Problems](./topics/dynamic_programming.md) | [📂 Open Folder](./dp/) | 🔲 |
 
