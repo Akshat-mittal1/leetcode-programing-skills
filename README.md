@@ -29,9 +29,9 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 
 | Topic Details | Folder Link | Status |
 |---------------|-------------|--------|
-| [Basic Implementation] | [📂 Open Folder](./Basic%20Implementation/) | ✅ |
-| [Built-In Functions](./topics/strings.md) | [📂 Open Folder](./Built-In%20Functions/) | 🔲 |
-| [Simulation](./topics/dynamic_programming.md) | [📂 Open Folder](./Simulation/) | 🔲 |
+| [Basic Implementation](./topics/Basic%20Implementation.md) | [📂 Open Folder](./Basic%20Implementation/) | ✅ |
+| [Built-In Functions](./topics/Built-In%20Functions.md) | [📂 Open Folder](./Built-In%20Functions/) | 🔲 |
+| [Simulation](./topics/Simulation.md) | [📂 Open Folder](./Simulation/) | 🔲 |
 
 
 ---
