@@ -27,10 +27,11 @@ This repository contains my solutions to LeetCode's **[Programming Skills](https
 
 ## ✅ Progress Tracker
 
-| # | Problem | Solution | Status |
-|---|---------|----------|--------|
-| 1 | [Problem Name](https://leetcode.com/problems/example/) | [✓](./01-example.py) | ✅ |
-| 2 | ... | ... | 🔲 |
+| Topic | Topic Details | Folder Link | Status |
+|-------|---------------|-------------|--------|
+| Arrays | [Basic Implementation] | [📂 Open Folder](./Basic Implementation/) | ✅ |
+| Strings | [📄 View Problems](./topics/strings.md) | [📂 Open Folder](./strings/) | 🔲 |
+| DP | [📄 View Problems](./topics/dynamic_programming.md) | [📂 Open Folder](./dp/) | 🔲 |
 
 
 ---
