@@ -2,7 +2,7 @@
 
 | Item            | Value                                                                 |
 |-----------------|------------------------------------------------------------------------|
-| **Solved on**   | 15‑JULY‑2025                                                           |
+| **Solved on**   | 10‑JULY‑2025                                                           |
 | **Category**    | Easy                                                                   |
 | **Topic Tags**  | Array, Math                                                            |
 | **Problem Link**| [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) |
