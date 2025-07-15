@@ -2,7 +2,8 @@
 
 | # | Problem | Solution | Difficulty |
 |----|---------|----------|------------|
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [✓](../../leetcode-programing-skills/) | Easy |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [✓](../Basic%20Implementation/1768.%20Merge%20Strings%20Alternately/solution.py)
+| Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [✓](../../leetcode-programing-skills/Basic%20Implementation/389.%20Find%20the%20Difference/solution.py) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [✓](../../leetcode-programing-skills/Basic%20Implementation/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/solution.py) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [✓](../../leetcode-programing-skills/Basic%20Implementation/242.%20Valid%20Anagram/solution.py) | Easy |
