@@ -44,4 +44,6 @@ Output: 1
 
 Input: nums = [1, 5, 0, 2, -3]
 Output: 0
+```
 
+## 👨‍💻 Author 🔗 **[Akshat Mittal](https://github.com/akshat-mittal1)**
